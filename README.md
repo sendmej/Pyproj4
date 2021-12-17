@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/gh/circleci/circleci-docs)
+[![CircleCI](https://circleci.com/gh/sendmej/pyproj4/tree/main.svg?style=svg)](https://circleci.com/gh/sendmej/pyproj4/tree/main)
 
 ## Project Overview
 
